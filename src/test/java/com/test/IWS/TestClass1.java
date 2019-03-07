@@ -4,6 +4,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
+import com.main.test.SampleMainTestClass;
+
 public class TestClass1 {
 	
 	@Test
@@ -15,6 +17,9 @@ public class TestClass1 {
 		System.out.println("Page opened!");
 		//driver.close();
 		//driver.quit();
+		
+		SampleMainTestClass sampletest = new SampleMainTestClass();
+		sampletest.mainTest();
 		
 		
 	}
