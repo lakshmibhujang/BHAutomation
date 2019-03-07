@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="BHSuite" verbose="1" >
+  <test name="BH_AutomationTest" >
+    <classes>
+       <class name="com.test.IWS.TestClass1" />
+    </classes>
+  </test>
+ 
+</suite>
