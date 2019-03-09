@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="BHSuite" duration-ms="7436" started-at="2019-03-09T06:30:57Z" finished-at="2019-03-09T06:31:05Z">
+  <suite name="Default suite" duration-ms="6633" started-at="2019-03-09T06:46:33Z" finished-at="2019-03-09T06:46:40Z">
     <groups>
     </groups>
-    <test name="BH_AutomationTest" duration-ms="7436" started-at="2019-03-09T06:30:57Z" finished-at="2019-03-09T06:31:05Z">
+    <test name="Default test" duration-ms="6633" started-at="2019-03-09T06:46:33Z" finished-at="2019-03-09T06:46:40Z">
       <class name="com.test.IWS.TestClass1">
-        <test-method status="PASS" signature="openGoogle()[pri:0, instance:com.test.IWS.TestClass1@2aafb23c]" name="openGoogle" duration-ms="7403" started-at="2019-03-09T12:00:57Z" finished-at="2019-03-09T12:01:05Z">
+        <test-method status="PASS" signature="openGoogle()[pri:0, instance:com.test.IWS.TestClass1@3ab39c39]" name="openGoogle" duration-ms="6618" started-at="2019-03-09T12:16:33Z" finished-at="2019-03-09T12:16:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openGoogle -->
       </class> <!-- com.test.IWS.TestClass1 -->
-    </test> <!-- BH_AutomationTest -->
-  </suite> <!-- BHSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
